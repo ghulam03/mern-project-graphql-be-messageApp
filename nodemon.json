@@ -1,0 +1,8 @@
+{
+    "env": {
+        "MONGO_USER": "ghulam",
+        "MONGO_PASSWORD": "OdJqzWfmhtIE47SH",
+        "MONGO_DEFAULT_DATABASE": "MessageNode"
+        //"STRIPE_KEY": "sk_test_T8OE02SHDZWLwk4TYtrWlsat"
+    }
+}
